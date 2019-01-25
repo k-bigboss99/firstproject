@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang ="zh.tw">
+<body>
+<img title ="this is me"
+src ="https://instagram.ftpe8-4.fna.fbcdn.net/vp/61a09e3267829a7c6acb30a6d5a55422/5CF67A68/t51.2885-19/s150x150/46346488_769260973449479_3394967116850397184_n.jpg?_nc_ht=instagram.ftpe8-4.fna.fbcdn.net" width="200" height ="200" alt="photo">
+<h1>我是 靜。</h1>
+<h2>About me</h2>
+
+<p>我喜歡旅行</p>
+<p>我喜歡兜風</p>
+<p>我喜歡挑戰</p>
+
+<p>如果像要更了解我，可以去</p><a href="https://www.instagram.com/k.big_boss99/">我的IG</a>
+
+</body>
+</html>
